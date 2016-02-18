@@ -1,6 +1,6 @@
 name: aldonashea
 favicon: null
-layout_spectrum: 0.92447
+layout_spectrum: 0.6657
 typography_spectrum: 0.83333
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3f5b2b'
     - '#9b764a'
     - '#e8b245'
-  brandStrength: 0.3125
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.75
+  brandStrength: 0.75
+  lightness: 0.375
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
