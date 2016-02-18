@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[aldonashea]]></title>
         <description><![CDATA[aldonashea]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aldonashea/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 01:11:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 01:13:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aldonashea/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined4a179c73-18d8-4af6-8cc2-764ecbee5697/index.html</link>
+            <description><![CDATA[<p>A word or two about</p>]]></description>
+            <link>https://thegrid.ai/aldonashea/04fd840c-81a3-480e-810c-a454490fd303/index.html</link>
+            <guid isPermaLink="false">04fd840c-81a3-480e-810c-a454490fd303</guid>
+            <pubDate>Thu, 18 Feb 2016 01:13:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Every part or your body has intelligence and can hold unexpressed consciousnesses or energy.</p>]]></description>
+            <link>https://thegrid.ai/aldonashea/4a179c73-18d8-4af6-8cc2-764ecbee5697/index.html</link>
             <guid isPermaLink="false">4a179c73-18d8-4af6-8cc2-764ecbee5697</guid>
             <pubDate>Thu, 18 Feb 2016 01:11:13 GMT</pubDate>
         </item>
