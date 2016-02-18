@@ -1,0 +1,28 @@
+name: aldonashea
+favicon: null
+layout_spectrum: 0.27899050549604
+typography_spectrum: 0.868074310477823
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.36674936185590923
+  lightness: 0.7733429386280477
+  saturation: 0.17393239052034914
+  rhythmicContrast: 0.24990838021039963
+purpose: []
