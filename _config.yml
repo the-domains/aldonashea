@@ -1,8 +1,7 @@
 name: aldonashea
 favicon: null
-layout_spectrum: 0.6657
-typography_spectrum: 0.89884
-title: 'Energy Healing for the Soul '
+layout_spectrum: 0.47109
+typography_spectrum: 0.83333
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fffff8'
-    - '#6996ad'
-    - '#3f5b2b'
-    - '#9b764a'
-    - '#e8b245'
-  brandStrength: 0.75
-  lightness: 0.5625
+    - '#f7faff'
+    - '#809d5b'
+    - '#1e1b14'
+    - '#ffd607'
+    - '#ff7629'
+  brandStrength: 0.3125
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
